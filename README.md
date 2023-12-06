@@ -1,5 +1,5 @@
-### Hi there 👋
-I am a Front-End Developer.
+### Hi, I am a Front-End Developer ✨
+Passionate and detail-oriented individual with a knack for turning ideas into reality through coding.
 <!--
 **dwaskarma/dwaskarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
